@@ -57,7 +57,7 @@ Neste vídeo, vamos apresentar 3 ferramentas úteis para debugar código, que v�
 
 <h4> 👩🏽‍💻 6 EDITORES DE CÓDIGO para começar a programar - Qual é o melhor editor de código? <h4/>
 <br>
-<img width="156" alt="Captura de Tela 2023-07-27 às 19 12 13" src="https://github.com/MirandaFayra/VIDEOS-BY-FAYRA-MIRANDA/assets/52434685/447ebddb-776d-474f-b895-c3f6ceb36fc2">
+<img width="252" alt="Captura de Tela 2023-07-27 às 19 12 13" src="https://github.com/MirandaFayra/VIDEOS-BY-FAYRA-MIRANDA/assets/52434685/447ebddb-776d-474f-b895-c3f6ceb36fc2">
 
 
 <br>
