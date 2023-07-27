@@ -13,4 +13,8 @@ Transição de Carreira | Tecnologia | Programação | Estudos
 
 ### Conteúdo 
 
-Coletânea de vídeos, aulas, podcasts e conteúdos áudio visuais protagonizado por Fayra Miranda. 
+Coletânea de vídeos, aulas, podcasts e conteúdos áudio visuais protagonizado por Fayra Miranda.
+
+## Tutoriais 
+
+## Podcasts
