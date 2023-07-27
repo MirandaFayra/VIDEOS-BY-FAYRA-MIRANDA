@@ -110,7 +110,8 @@ Nesse vídeo, Fay Miranda explica um pouco mais sobre o funcionamento, os tipos 
 <h4> 🎙️ Mentoria na programação: como funciona, a importância e dicas - LabeCast #40 <h4/>
 <br>
   
-<img width="252" alt="Captura de Tela 2023-07-27 às 19 34 53" src="https://github.com/MirandaFayra/VIDEOS-BY-FAYRA-MIRANDA/assets/52434685/eee34a1d-559d-45c6-bfe0-63dc73f4c588">
+<img width="252" alt="Captura de Tela 2023-07-27 às 19 35 01" src="https://github.com/MirandaFayra/VIDEOS-BY-FAYRA-MIRANDA/assets/52434685/cd22cdad-f6bc-4fd4-9e16-451ed918296a">
+
 
 
 <br>
