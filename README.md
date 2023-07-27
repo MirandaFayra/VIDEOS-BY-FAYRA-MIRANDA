@@ -91,4 +91,18 @@ Nesse vídeo, Fay Miranda explica um pouco mais sobre o funcionamento, os tipos 
 <h2>🎙️ Podcasts
 <br>
 
+<h4> 🎙️ Transição de carreira para tecnologia: desafios, dicas e oportunidades - LabeCast #48 <h4/>
+<br>
+  
+<img width="252" alt="Captura de Tela 2023-07-27 às 19 25 55" src="https://github.com/MirandaFayra/VIDEOS-BY-FAYRA-MIRANDA/assets/52434685/8603311c-36e4-4869-b857-caf8c45913d0">
+
+
+<br>
+
+##### Neste episódio do LabeCast, Fay Miranda e Thiago Jatobá falam sobre sua transição de carreira. Jatobá trabalhou na área do audiovisual durante muitos anos, mas na pandemia acabou se apaixonando pela tecnologia. Descubra quais são os principais desafios, pegue dicas e conheça oportunidades para entrar na área de tecnologia.
+
+<https://youtu.be/Ig7CL3j-tKs?list=PLAIgeRdMaoGURTurJMLrNjy7fpPgQhQdt>
+
+-------------------------
+
 
