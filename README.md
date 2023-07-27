@@ -25,7 +25,7 @@ Nesse repositório, você encontra um pouco de uma das interfaces da Fayra : A c
 
 <br>
 
-<h4>Postman: Tudo o que você precisa saber na prática <h4/>
+<h4> 📭 Postman: Tudo o que você precisa saber na prática <h4/>
   
 <br>
 <img width="252" alt="Captura de Tela 2023-07-27 às 18 37 08" src="https://github.com/MirandaFayra/VIDEOS-BY-FAYRA-MIRANDA/assets/52434685/34244b99-8d77-4147-a24b-3dda7f2ec899">
@@ -40,7 +40,7 @@ Nesse repositório, você encontra um pouco de uma das interfaces da Fayra : A c
 -----------------------
 
 
-<h4>Bug como encontrar e depurar <h4/>
+<h4> 🪲 Bug como encontrar e depurar <h4/>
 <br>
 <img width="252" alt="Captura de Tela 2023-07-27 às 18 50 05" src="https://github.com/MirandaFayra/VIDEOS-BY-FAYRA-MIRANDA/assets/52434685/a1cd0506-cbf8-428e-b1d1-08ec53391ca1">
 <br>
