@@ -94,7 +94,8 @@ Nesse vídeo, Fay Miranda explica um pouco mais sobre o funcionamento, os tipos 
 <h4> 🎙️ Transição de carreira para tecnologia: desafios, dicas e oportunidades - LabeCast #48 <h4/>
 <br>
   
-<img width="252" alt="Captura de Tela 2023-07-27 às 19 25 55" src="https://github.com/MirandaFayra/VIDEOS-BY-FAYRA-MIRANDA/assets/52434685/8603311c-36e4-4869-b857-caf8c45913d0">
+<img width="257" alt="Captura de Tela 2023-07-27 às 19 31 04" src="https://github.com/MirandaFayra/VIDEOS-BY-FAYRA-MIRANDA/assets/52434685/f95105a3-8101-4661-b9e1-1a2228421abd">
+
 
 
 <br>
