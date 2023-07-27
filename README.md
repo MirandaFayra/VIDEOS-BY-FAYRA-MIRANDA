@@ -91,6 +91,22 @@ Nesse vídeo, Fay Miranda explica um pouco mais sobre o funcionamento, os tipos 
 <h2>🎙️ Podcasts
 <br>
 
+<h4> 🎙️ Técnicas de estudo e dicas para iniciantes em programação - LabeCast #29 <h4/>
+<br>
+  
+<img width="252" alt="Captura de Tela 2023-07-27 às 19 49 36" src="https://github.com/MirandaFayra/VIDEOS-BY-FAYRA-MIRANDA/assets/52434685/be5be9cf-69b0-438d-a43c-c4e827d2ba53">
+
+
+
+
+<br>
+
+##### Neste episódio do LabeCast, Lu Naganawa convida Fay Miranda, educadora e ex-estudante da Labenu, pra falar sobre métodos de aprender programação. Fay se formou em Arquitetura e Urbanismo e descobriu na programação um ambiente de comunidade, com muita renovação nos estudos. Pra se manter atualizada sempre, ela dá dicas de estudos e explica como aprendeu a programar do zero.
+
+<https://youtu.be/Ydu10yTqk3M?list=PLAIgeRdMaoGURTurJMLrNjy7fpPgQhQdt>
+
+-------------------------
+
 <h4> 🎙️ MULHERES na tecnologia: oportunidades, desafios e importância - LabeCast #37 <h4/>
 <br>
   
