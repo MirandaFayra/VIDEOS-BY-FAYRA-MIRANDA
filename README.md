@@ -123,3 +123,19 @@ Nesse vídeo, Fay Miranda explica um pouco mais sobre o funcionamento, os tipos 
 -------------------------
 
 
+<h4> 🎙️ MULHERES na tecnologia: oportunidades, desafios e importância - LabeCast #37 <h4/>
+<br>
+  
+<img width="252" alt="Captura de Tela 2023-07-27 às 19 44 54" src="https://github.com/MirandaFayra/VIDEOS-BY-FAYRA-MIRANDA/assets/52434685/dd138316-6260-4a2f-b454-5ca8038400e0">
+
+
+
+<br>
+
+##### No mês de março, o LabeCast apresenta uma bancada totalmente feminina para discutir sobre as mulheres na tecnologia. Laís Jesus e Fay Miranda comentam quais são as oportunidades, os desafios e a importância de ter uma equipe diversa no mercado de trabalho de tecnologia.
+
+<https://youtu.be/8SpxMSxYbQo?list=PLAIgeRdMaoGURTurJMLrNjy7fpPgQhQdt>
+
+-------------------------
+
+
