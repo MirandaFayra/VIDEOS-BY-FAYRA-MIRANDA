@@ -13,29 +13,29 @@ Transição de Carreira | Tecnologia | Programação | Estudos
 <br>
 -----------------------
 <br>
-### Conteúdo 
+###Conteúdo 
 
 Coletânea de vídeos, aulas, podcasts e conteúdos áudio visuais protagonizado por Fayra Miranda.
 <br>
 -----------------------
 <br>
-## 🌟 Tutoriais 
+##🌟 Tutoriais 
 
-####  Postman: Tudo o que você precisa saber na prática 
+####Postman: Tudo o que você precisa saber na prática 
 
 
-####  3 Ferramentas para debugar e depurar seu código
+####3 Ferramentas para debugar e depurar seu código
 <br>
 
 -----------------------
 <br>
 
-## 👩🏽‍🏫  Aulas
+##👩🏽‍🏫 Aulas
 <br>
 
 -------------------------
 <br>
-## 🎙️ Podcasts
+##🎙️ Podcasts
 <br>
 
 
