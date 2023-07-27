@@ -15,6 +15,19 @@ Transição de Carreira | Tecnologia | Programação | Estudos
 
 Coletânea de vídeos, aulas, podcasts e conteúdos áudio visuais protagonizado por Fayra Miranda.
 
-## Tutoriais 
+## 🌟 Tutoriais 
 
-## Podcasts
+####  Postman: Tudo o que você precisa saber na prática 
+
+
+####  3 Ferramentas para debugar e depurar seu código
+
+-----------------------
+
+## 👩🏽‍🏫  Aulas
+
+-------------------------
+
+## 🎙️ Podcasts
+
+
