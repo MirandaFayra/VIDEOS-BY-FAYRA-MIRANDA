@@ -75,7 +75,7 @@ Neste vídeo, vamos apresentar 3 ferramentas úteis para debugar código, que v�
 <h4> 📲 API - conceitos básicos: o que são, como funcionam, para que servem <h4/>
 <br>
   
-<img width="159" alt="Captura de Tela 2023-07-27 às 19 16 23" src="https://github.com/MirandaFayra/VIDEOS-BY-FAYRA-MIRANDA/assets/52434685/f181be64-b1e7-402c-98b5-fc69292d0746">
+<img width="252" alt="Captura de Tela 2023-07-27 às 19 16 23" src="https://github.com/MirandaFayra/VIDEOS-BY-FAYRA-MIRANDA/assets/52434685/f181be64-b1e7-402c-98b5-fc69292d0746">
 
 <br>
 
