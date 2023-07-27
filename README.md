@@ -28,7 +28,9 @@ Nesse repositório, você encontra um pouco de uma das interfaces da Fayra : A c
 <h4> 📭 Postman: Tudo o que você precisa saber na prática <h4/>
   
 <br>
-<img width="252" alt="Captura de Tela 2023-07-27 às 18 37 08" src="https://github.com/MirandaFayra/VIDEOS-BY-FAYRA-MIRANDA/assets/52434685/34244b99-8d77-4147-a24b-3dda7f2ec899">
+<img width="252" alt="Captura de Tela 2023-07-27 às 19 02 41" src="https://github.com/MirandaFayra/VIDEOS-BY-FAYRA-MIRANDA/assets/52434685/7654b558-805a-42b3-8c1e-eaaf67b0e3f0">
+
+
 <br>
 
 ##### Postman é um programa que nos permite enviar, testar e documentar solicitações HTTP. Ele fornece uma interface amigável para facilitar a criação e execução de solicitações HTTP, além de oferecer recursos avançados para automação e colaboração. O Postman é amplamente utilizado por pessoas desenvolvedoras, testadoras e equipes de desenvolvimento de API em todo o mundo.
