@@ -54,6 +54,19 @@ Neste vídeo, vamos apresentar 3 ferramentas úteis para debugar código, que v�
 <https://youtu.be/cBU4MAOgkLk?list=PLAIgeRdMaoGWVO0CAG-WXe-lzIwLg9EWl>
 
 -----------------------
+
+<h4> 👩🏽‍💻 6 EDITORES DE CÓDIGO para começar a programar - Qual é o melhor editor de código? <h4/>
+<br>
+<img width="156" alt="Captura de Tela 2023-07-27 às 19 12 13" src="https://github.com/MirandaFayra/VIDEOS-BY-FAYRA-MIRANDA/assets/52434685/447ebddb-776d-474f-b895-c3f6ceb36fc2">
+
+
+<br>
+
+##### Fay Miranda listou 6 editores de código para começar a programar. Do editor de código mais básico até o editor de código mais avançado, Fay comenta sobre os pontos positivos e negativos de cada um.
+
+<https://www.youtube.com/watch?v=SnEa0_f3Rgo&list=PLAIgeRdMaoGWVO0CAG-WXe-lzIwLg9EWl&index=12&t=343s&pp=iAQB>
+
+-----------------------
 <br>
 
 <h2>👩🏽‍🏫 Aulas
