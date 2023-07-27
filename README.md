@@ -82,7 +82,7 @@ Neste vídeo, vamos apresentar 3 ferramentas úteis para debugar código, que v�
 Nesse vídeo, Fay Miranda explica um pouco mais sobre o funcionamento, os tipos e benefícios das APIs.
 
 
-<https://youtu.be/cBU4MAOgkLk?list=PLAIgeRdMaoGWVO0CAG-WXe-lzIwLg9EWl>
+<https://youtu.be/gMQfqeZypFY?list=PLAIgeRdMaoGWVO0CAG-WXe-lzIwLg9EWl>
 
 -------------------------
 <br>
