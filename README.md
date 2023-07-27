@@ -74,7 +74,9 @@ Neste vídeo, vamos apresentar 3 ferramentas úteis para debugar código, que v�
 
 <h4> 📲 API - conceitos básicos: o que são, como funcionam, para que servem <h4/>
 <br>
-<img width="252" alt="Captura de Tela 2023-07-27 às 18 50 05" src="https://github.com/MirandaFayra/VIDEOS-BY-FAYRA-MIRANDA/assets/52434685/a1cd0506-cbf8-428e-b1d1-08ec53391ca1">
+  
+<img width="159" alt="Captura de Tela 2023-07-27 às 19 16 23" src="https://github.com/MirandaFayra/VIDEOS-BY-FAYRA-MIRANDA/assets/52434685/f181be64-b1e7-402c-98b5-fc69292d0746">
+
 <br>
 
 ##### APIs, ou Application Programming Interfaces, são um conjunto de padrões e protocolos que permitem que diferentes aplicações se comuniquem entre si e são muito importantes na indústria de software. 
