@@ -91,18 +91,18 @@ Nesse vídeo, Fay Miranda explica um pouco mais sobre o funcionamento, os tipos 
 <h2>🎙️ Podcasts
 <br>
 
-<h4> 🎙️ Transição de carreira para tecnologia: desafios, dicas e oportunidades - LabeCast #48 <h4/>
+<h4> 🎙️ MULHERES na tecnologia: oportunidades, desafios e importância - LabeCast #37 <h4/>
 <br>
   
-<img width="257" alt="Captura de Tela 2023-07-27 às 19 31 04" src="https://github.com/MirandaFayra/VIDEOS-BY-FAYRA-MIRANDA/assets/52434685/f95105a3-8101-4661-b9e1-1a2228421abd">
+<img width="252" alt="Captura de Tela 2023-07-27 às 19 44 54" src="https://github.com/MirandaFayra/VIDEOS-BY-FAYRA-MIRANDA/assets/52434685/dd138316-6260-4a2f-b454-5ca8038400e0">
 
 
 
 <br>
 
-##### Neste episódio do LabeCast, Fay Miranda e Thiago Jatobá falam sobre sua transição de carreira. Jatobá trabalhou na área do audiovisual durante muitos anos, mas na pandemia acabou se apaixonando pela tecnologia. Descubra quais são os principais desafios, pegue dicas e conheça oportunidades para entrar na área de tecnologia.
+##### No mês de março, o LabeCast apresenta uma bancada totalmente feminina para discutir sobre as mulheres na tecnologia. Laís Jesus e Fay Miranda comentam quais são as oportunidades, os desafios e a importância de ter uma equipe diversa no mercado de trabalho de tecnologia.
 
-<https://youtu.be/Ig7CL3j-tKs?list=PLAIgeRdMaoGURTurJMLrNjy7fpPgQhQdt>
+<https://youtu.be/8SpxMSxYbQo?list=PLAIgeRdMaoGURTurJMLrNjy7fpPgQhQdt>
 
 -------------------------
 
@@ -123,19 +123,23 @@ Nesse vídeo, Fay Miranda explica um pouco mais sobre o funcionamento, os tipos 
 -------------------------
 
 
-<h4> 🎙️ MULHERES na tecnologia: oportunidades, desafios e importância - LabeCast #37 <h4/>
+<h4> 🎙️ Transição de carreira para tecnologia: desafios, dicas e oportunidades - LabeCast #48 <h4/>
 <br>
   
-<img width="252" alt="Captura de Tela 2023-07-27 às 19 44 54" src="https://github.com/MirandaFayra/VIDEOS-BY-FAYRA-MIRANDA/assets/52434685/dd138316-6260-4a2f-b454-5ca8038400e0">
+<img width="257" alt="Captura de Tela 2023-07-27 às 19 31 04" src="https://github.com/MirandaFayra/VIDEOS-BY-FAYRA-MIRANDA/assets/52434685/f95105a3-8101-4661-b9e1-1a2228421abd">
 
 
 
 <br>
 
-##### No mês de março, o LabeCast apresenta uma bancada totalmente feminina para discutir sobre as mulheres na tecnologia. Laís Jesus e Fay Miranda comentam quais são as oportunidades, os desafios e a importância de ter uma equipe diversa no mercado de trabalho de tecnologia.
+##### Neste episódio do LabeCast, Fay Miranda e Thiago Jatobá falam sobre sua transição de carreira. Jatobá trabalhou na área do audiovisual durante muitos anos, mas na pandemia acabou se apaixonando pela tecnologia. Descubra quais são os principais desafios, pegue dicas e conheça oportunidades para entrar na área de tecnologia.
 
-<https://youtu.be/8SpxMSxYbQo?list=PLAIgeRdMaoGURTurJMLrNjy7fpPgQhQdt>
+<https://youtu.be/Ig7CL3j-tKs?list=PLAIgeRdMaoGURTurJMLrNjy7fpPgQhQdt>
 
 -------------------------
+
+
+
+
 
 
